@@ -1,2 +1,6 @@
 # consulta-cep-php
-Sistema simple de consulta de endereço via cep
+Script PHP de consulta de endereço via cep.
+
+Retorno via JSON e XML
+
+Desenvolvido por: Nicolas Leite Araujo (TeshoTesho) http://nicolasleitearaujo.online
