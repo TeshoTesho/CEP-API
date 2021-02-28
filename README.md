@@ -1,4 +1,4 @@
-# consulta-cep-php
+# Consulta CEP PHP
 Script PHP de consulta de endereço via cep.
 
 Retorno via JSON e XML
